@@ -35,14 +35,14 @@ while ( number <= 100){
     number++;
 }
 // DO-WHILE for Exercise 1
-let number = 1;
+let number1 = 1;
 do {
-    if (number % 2 !=0) {
-        console.log(number);
+    if (number1 % 2 !=0) {
+        console.log(number1);
     }
-    number++
+    number1++
 }
-while (number <= 100);
+while (number1 <= 100);
 
 console.log("Fizz Buzz with do-while loop")
 //DO-WHILE for exercise 2
